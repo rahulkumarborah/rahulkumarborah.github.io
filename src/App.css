@@ -1,7 +1,16 @@
 @import './styles/index.css';
 
 .App {
-  text-align: center;
   min-height: 100vh;
   font-family: 'Roboto';
+}
+
+.App .Main-container {
+  padding-top: 6rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+img {
+  width: 100%;
 }
